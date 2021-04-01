@@ -20,9 +20,15 @@ Step 2: If you are unfamiliar with the term "Implicit Bias," take time to read t
 Create a gist on Github and reflect (4-6 sentences) on the following questions:
 
 * What were your reflections from the video?
+I appreciated how individuals in this video stated how important it is to challenge your assumptions, challenge your biases, as when we are not willing to do that will limit our our growth and potentional. Recognizing why are brains make assumptions, or biases, is important, recognizing that this allows us to think and make decisions quick, however we can have agency over slowing ourselves down and looking to see where we have biases we are not aware of that are inhibiting our selves and others. Especially in the workplace, in hiring, in collaboration, in making products for users, it is essential that we not only look at our own biases but also the structures of many of our processes that may be based on certain assumptions as well. 
+
 * In what ways have you examined your implicit biases before coming to Turing?
+
+I have spent a lot of time in implicit bias and ASU/Starbucks To Be Welcoming training that has extensively challenged me to look at any biases or assumptions I may have. However, I recognize this is not a one time thing but a lifelong, daily choice and learning process to seek out where we may have implicit bias and where this may be seen in our workplace and communities. 
+
 * What kind of software do you imagine building in the future? How will understanding biases (or avoiding understanding biases) impact your products?
 
+I would love to work on education software. I think understanding biases is absolutely essential in reconizing the diversity of users this type of software could impact. Not assuming people learn a certain way, have the same opportunities, backgrounds, and how they will each use the product are all essential to understand.
 
 #### READ
 
