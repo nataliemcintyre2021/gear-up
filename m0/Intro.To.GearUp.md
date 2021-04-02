@@ -41,6 +41,14 @@ On your same gist, reflect on the following quesitons:
 <b>“All of us live complex lives that require a great deal of juggling for survival,” Carty and Mohanty said in an email. “What that means is that we are actually living at the intersections of overlapping systems of privilege and oppression.”</b>
 
  * When you consider the way you move through the world, what elements of your identity are you most aware of on a daily basis?
+As the article states, I think intersectionality is so important in that not understanding the complexities of our identities is truly not understanding reality. Certain elements of my identity come to my awareness more depending often on certain environments I am in. Being from a rural environment often comes to the forefront of my identity when I have lived in bigger cities or with people of different a different experience. Seeing how that relates with my gender and race can also be impacted by the environments I am in.
+
  * What strengths does your identity give you?  How will you utilize those at Turing?
+
+I will utilize the perspective I have based on my identity to provide insight that may be unique from others' experiences. 
+
  * How do you think you could value the identies of those around you to bring out their strengths at Turing? Has there been a time where you were able to advocate or include people around you?
+
+I think it absolutely essential to seek to value all identities and perspectives. I seek to do this by becoming more aware of my identities, biases and assumptions, actively seeking to understand others' perspectives, and making sure space is given for each voice to share their individual perspectives and strengths. In my past roles, we often brought in speakers of various career paths for students to hear and learn from. We found it so important to make sure we were being intentional in bringing in people from various identities to share their unique perspectives to include space for all voices and identities in the conversation.
  * How will your strengths impact you as a teammate?  What will you bring to your cohort? 
+ I will be an active lisenter, collaborator, and bring a perspective that always seeks to be curious and asking ourselves why are we doing things a certain way, what assumptions are we acting out of, and are we being consistant in our thinking. I seek to complicate my thinking, challenge myself, and always be seeking to learn and grow. 
