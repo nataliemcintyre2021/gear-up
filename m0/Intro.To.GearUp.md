@@ -50,5 +50,7 @@ I will utilize the perspective I have based on my identity to provide insight th
  * How do you think you could value the identies of those around you to bring out their strengths at Turing? Has there been a time where you were able to advocate or include people around you?
 
 I think it absolutely essential to seek to value all identities and perspectives. I seek to do this by becoming more aware of my identities, biases and assumptions, actively seeking to understand others' perspectives, and making sure space is given for each voice to share their individual perspectives and strengths. In my past roles, we often brought in speakers of various career paths for students to hear and learn from. We found it so important to make sure we were being intentional in bringing in people from various identities to share their unique perspectives to include space for all voices and identities in the conversation.
+
  * How will your strengths impact you as a teammate?  What will you bring to your cohort? 
- I will be an active lisenter, collaborator, and bring a perspective that always seeks to be curious and asking ourselves why are we doing things a certain way, what assumptions are we acting out of, and are we being consistant in our thinking. I seek to complicate my thinking, challenge myself, and always be seeking to learn and grow. 
+
+I will be an active lisenter, collaborator, and bring a perspective that always seeks to be curious and asking ourselves why are we doing things a certain way, what assumptions are we acting out of, and are we being consistant in our thinking. I seek to complicate my thinking, challenge myself, and always be seeking to learn and grow. 
